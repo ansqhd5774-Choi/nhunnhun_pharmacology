@@ -1,0 +1,15 @@
+{
+  "status": "RUNTIME_READINESS_PASS",
+  "key": "pharmacology",
+  "repository": "ansqhd5774-Choi/nhunnhun_pharmacology",
+  "category": "약학",
+  "runId": 40181013750,
+  "runUrl": "https://github.com/ansqhd5774-Choi/nhunnhun_pharmacology/actions/runs/40181013750",
+  "sourceCommit": "ebbde41ed70357126ba125315272e97daef5624f",
+  "host": "DESKTOP-N62L0NG",
+  "lockAcquired": true,
+  "chromeReady": true,
+  "publicationAttempted": false,
+  "publishEnabled": true,
+  "articleSubmissionVerified": false
+}
